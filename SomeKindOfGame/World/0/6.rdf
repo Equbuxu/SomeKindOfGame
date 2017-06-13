@@ -1,0 +1,125 @@
+780 600 l7 1 2
+l8 NoRoom l6 r1
+Spike 0 0 0 
+Spike 30 0 0 
+Spike 60 0 0 
+Spike 90 0 0 
+Spike 120 0 0 
+Spike 150 0 0 
+Spike 180 0 0 
+Spike 210 0 0 
+Spike 240 0 0 
+Spike 270 0 0 
+Spike 300 0 0 
+Spike 330 0 0 
+Spike 360 0 0 
+Spike 390 0 0 
+Spike 420 0 0 
+Spike 420 30 0 
+Spike 420 60 0 
+Spike 420 90 0 
+Spike 450 90 0 
+Spike 480 90 0 
+Spike 510 90 0 
+Spike 540 90 0 
+Spike 570 90 0 
+Spike 600 90 0 
+Spike 630 90 0 
+Spike 660 90 0 
+Spike 690 90 0 
+Spike 720 90 0 
+Spike 750 90 0 
+Spike 0 120 0 
+Spike 0 150 0 
+Spike 0 180 0 
+Spike 0 210 0 
+Spike 0 240 0 
+Spike 120 240 0 
+Spike 150 240 0 
+Spike 180 240 0 
+Spike 210 240 0 
+Spike 240 240 0 
+Spike 270 240 0 
+Spike 300 240 0 
+Spike 330 240 0 
+Spike 360 240 0 
+Spike 390 240 0 
+Spike 420 240 0 
+Spike 0 270 0 
+Spike 0 300 0 
+Spike 0 330 0 
+Spike 0 360 0 
+Spike 0 390 0 
+Spike 0 420 0 
+Spike 0 450 0 
+Spike 0 480 0 
+Spike 0 510 0 
+Spike 0 540 0 
+Spike 0 570 0 
+Spike 120 270 0 
+Spike 120 300 0 
+Spike 120 330 0 
+Spike 120 360 0 
+Spike 120 390 0 
+Spike 120 420 0 
+Spike 120 450 0 
+Spike 120 480 0 
+Spike 120 510 0 
+Spike 120 540 0 
+Spike 120 570 0 
+Spike 450 240 0 
+Spike 480 240 0 
+Spike 510 240 0 
+Spike 540 240 0 
+Spike 570 240 0 
+Spike 600 240 0 
+Spike 630 240 0 
+Spike 660 240 0 
+Spike 690 240 0 
+Spike 720 240 0 
+Spike 750 240 0 
+Wall 150 510 17 1 0 0 0 0 0 1 1 
+Wall 270 510 17 1 0 0 0 1 1 1 1 
+Wall 390 510 17 1 0 0 0 1 1 1 1 
+Wall 450 510 17 1 0 0 0 1 1 1 1 
+Wall 510 510 17 1 0 0 0 1 1 1 1 
+Wall 540 510 17 1 0 0 0 1 1 1 1 
+Wall 600 510 17 1 0 0 0 1 1 1 1 
+Wall 690 510 17 1 0 0 0 1 1 1 1 
+Wall 720 510 17 1 0 0 0 1 1 1 1 
+Wall 750 510 19 0 0 0 0 1 1 1 0 
+Wall 630 510 19 1 0 0 0 1 1 1 1 
+Wall 480 510 19 1 0 0 0 1 1 1 1 
+Wall 330 510 19 1 0 0 0 1 1 1 1 
+Wall 180 510 19 1 0 0 0 1 1 1 1 
+Wall 420 510 18 1 0 0 0 1 1 1 1 
+Wall 360 510 18 1 0 0 0 1 1 1 1 
+Wall 300 510 18 1 0 0 0 1 1 1 1 
+Wall 210 510 18 1 0 0 0 1 1 1 1 
+Wall 240 510 18 1 0 0 0 1 1 1 1 
+Wall 570 510 18 1 0 0 0 1 1 1 1 
+Wall 660 510 18 1 0 0 0 1 1 1 1 
+Wall 150 540 20 1 1 1 0 0 0 0 0 
+Wall 180 540 20 1 1 1 1 1 0 0 0 
+Wall 210 540 20 1 1 1 1 1 0 0 0 
+Wall 240 540 20 1 1 1 1 1 0 0 0 
+Wall 270 540 20 1 1 1 1 1 0 0 0 
+Wall 300 540 20 1 1 1 1 1 0 0 0 
+Wall 330 540 20 1 1 1 1 1 0 0 0 
+Wall 360 540 20 1 1 1 1 1 0 0 0 
+Wall 390 540 20 1 1 1 1 1 0 0 0 
+Wall 420 540 20 1 1 1 1 1 0 0 0 
+Wall 450 540 20 1 1 1 1 1 0 0 0 
+Wall 480 540 20 1 1 1 1 1 0 0 0 
+Wall 510 540 20 1 1 1 1 1 0 0 0 
+Wall 540 540 20 1 1 1 1 1 0 0 0 
+Wall 570 540 20 1 1 1 1 1 0 0 0 
+Wall 600 540 20 1 1 1 1 1 0 0 0 
+Wall 630 540 20 1 1 1 1 1 0 0 0 
+Wall 660 540 20 1 1 1 1 1 0 0 0 
+Wall 690 540 20 1 1 1 1 1 0 0 0 
+Wall 720 540 20 1 1 1 1 1 0 0 0 
+Wall 750 540 20 0 0 1 1 1 0 0 0 
+gravityChanger 60 30 3 3 
+gravityChanger 210 180 1 1 
+gravityChanger 570 150 3 3 

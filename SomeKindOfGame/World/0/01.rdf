@@ -1,0 +1,22 @@
+780 600 r1 0 2
+NoRoom NoRoom NoRoom NoRoom
+gravityChanger 120 570 1 1 
+gravityChanger 270 570 1 1 
+gravityChanger 420 570 1 1 
+gravityChanger 630 570 1 1 
+gravityChanger 750 480 2 2 
+gravityChanger 750 330 2 2 
+gravityChanger 750 180 2 2 
+gravityChanger 750 60 2 2 
+gravityChanger 630 0 3 3 
+gravityChanger 420 0 3 3 
+gravityChanger 180 0 3 3 
+gravityChanger 0 30 0 0 
+gravityChanger 0 150 0 0 
+gravityChanger 0 300 0 0 
+gravityChanger 0 450 0 0 
+Cannon 210 150 0 0 1 0 
+Cannon 210 180 0 0 500 100 
+Cannon 210 210 0 0 500 200 
+Cannon 210 240 0 0 500 300 
+Cannon 210 270 0 0 500 400 
